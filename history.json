@@ -1,0 +1,20 @@
+[
+  {
+    "from": "USD",
+    "to": "RUB",
+    "amount": 100,
+    "result": 9250.50
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": 50,
+    "result": 54.30
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": 200,
+    "result": 238.75
+  }
+]
